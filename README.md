@@ -1,4 +1,4 @@
-# Plugin-React-UserChat
+# Clinical Notes plugin
 
 This plugin is used to support Clinical Notes around a PulseTile ReactJS based application.
 
